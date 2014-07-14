@@ -7,9 +7,7 @@ object exercise2 {
     innerIsSorted(as)
   }
 
-  def ascending(x: Int, y: Int): Boolean = {
-    (x < y)
-  }
+  def ascending(x: Int, y: Int)= (x < y)
 
   def main(args: Array[String]): Unit = {
     println("is Array(1, 2, 3) in ascending order: " + isSorted(Array(1,2,3), ascending))
