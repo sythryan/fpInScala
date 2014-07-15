@@ -1,54 +1,32 @@
-[0m[[0mdebug[0m] [0mInvalidating /home/syth/.ivy2/cache/org.mongodb/casbah-core_2.10/jars/casbah-core_2.10-2.7.2.jar: could not find class com.mongodb.casbah.Imports$ on the classpath.[0m
-[0m[[0mdebug[0m] [0mInvalidating /home/syth/scalaInAction/chap3Mongo/lib/mongo-java-driver-2.10.1.jar: could not find class com.mongodb.Mongo on the classpath.[0m
 [0m[[0mdebug[0m] [0m[0m
 [0m[[0mdebug[0m] [0mInitial source changes: [0m
-[0m[[0mdebug[0m] [0m	removed:Set(/home/syth/scalaInAction/chap3Mongo/src/main/scala/Role.scala, /home/syth/scalaInAction/chap3Mongo/src/main/scala/MyScript.scala, /home/syth/scalaInAction/chap3Mongo/src/main/scala/main.scala, /home/syth/scalaInAction/chap3Mongo/src/main/scala/classPractice.scala, /home/syth/scalaInAction/chap3Mongo/src/main/scala/DB.scala)[0m
-[0m[[0mdebug[0m] [0m	added: Set(/home/syth/fpInScala/Chap3/src/main/scala/exercise2.scala)[0m
-[0m[[0mdebug[0m] [0m	modified: Set()[0m
-[0m[[0mdebug[0m] [0mRemoved products: Set(/home/syth/scalaInAction/chap3Mongo/target/scala-2.10/classes/com/scalainaction/mongo/MyMongoClient$$anonfun$1.class, /home/syth/scalaInAction/chap3Mongo/target/scala-2.10/classes/Role$.class, /home/syth/scalaInAction/chap3Mongo/target/scala-2.10/classes/Analyst.class, /home/syth/scalaInAction/chap3Mongo/target/scala-2.10/classes/com/scalainaction/mongo/DB.class, /home/syth/scalaInAction/chap3Mongo/target/scala-2.10/classes/Root.class, /home/syth/scalaInAction/chap3Mongo/target/scala-2.10/classes/MyScript$$anonfun$1.class, /home/syth/scalaInAction/chap3Mongo/target/scala-2.10/classes/MyScript.class, /home/syth/scalaInAction/chap3Mongo/target/scala-2.10/classes/main$.class, /home/syth/scalaInAction/chap3Mongo/target/scala-2.10/classes/main$$anonfun$main$1.class, /home/syth/scalaInAction/chap3Mongo/target/scala-2.10/classes/main.class, /home/syth/scalaInAction/chap3Mongo/target/scala-2.10/classes/com/scalainaction/mongo/MyMongoClient.class, /home/syth/scalaInAction/chap3Mongo/target/scala-2.10/classes/com/scalainaction/mongo/DB$.class, /home/syth/scalaInAction/chap3Mongo/target/scala-2.10/classes/com/scalainaction/mongo/DB$$anonfun$collectionNames$1.class, /home/syth/scalaInAction/chap3Mongo/target/scala-2.10/classes/SuperAnalyst.class, /home/syth/scalaInAction/chap3Mongo/target/scala-2.10/classes/Role.class)[0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set()[0m
+[0m[[0mdebug[0m] [0m	modified: Set(/home/syth/fpInScala/Chap3/src/main/scala/exercise2.scala)[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
 [0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
-[0m[[0mdebug[0m] [0mModified binary dependencies: Set(/home/syth/.ivy2/cache/org.mongodb/casbah-core_2.10/jars/casbah-core_2.10-2.7.2.jar, /home/syth/scalaInAction/chap3Mongo/lib/mongo-java-driver-2.10.1.jar)[0m
-[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/home/syth/scalaInAction/chap3Mongo/src/main/scala/Role.scala, /home/syth/scalaInAction/chap3Mongo/src/main/scala/MyScript.scala, /home/syth/scalaInAction/chap3Mongo/src/main/scala/main.scala, /home/syth/scalaInAction/chap3Mongo/src/main/scala/classPractice.scala, /home/syth/fpInScala/Chap3/src/main/scala/exercise2.scala, /home/syth/scalaInAction/chap3Mongo/src/main/scala/DB.scala)[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/home/syth/fpInScala/Chap3/src/main/scala/exercise2.scala)[0m
 [0m[[0mdebug[0m] [0m[0m
 [0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
-[0m[[0mdebug[0m] [0m	product: Set(/home/syth/scalaInAction/chap3Mongo/src/main/scala/Role.scala, /home/syth/scalaInAction/chap3Mongo/src/main/scala/MyScript.scala, /home/syth/scalaInAction/chap3Mongo/src/main/scala/main.scala, /home/syth/scalaInAction/chap3Mongo/src/main/scala/classPractice.scala, /home/syth/scalaInAction/chap3Mongo/src/main/scala/DB.scala)[0m
-[0m[[0mdebug[0m] [0m	binary dep: Set(/home/syth/scalaInAction/chap3Mongo/src/main/scala/classPractice.scala, /home/syth/scalaInAction/chap3Mongo/src/main/scala/DB.scala)[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
 [0m[[0mdebug[0m] [0m	external source: Set()[0m
-[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/syth/scalaInAction/chap3Mongo/src/main/scala/Role.scala, /home/syth/scalaInAction/chap3Mongo/src/main/scala/MyScript.scala, /home/syth/scalaInAction/chap3Mongo/src/main/scala/main.scala, /home/syth/scalaInAction/chap3Mongo/src/main/scala/classPractice.scala, /home/syth/fpInScala/Chap3/src/main/scala/exercise2.scala, /home/syth/scalaInAction/chap3Mongo/src/main/scala/DB.scala)[0m
-[0m[[0mdebug[0m] [0mRecompiling all 1 sources: invalidated sources (6) exceeded 50.0% of all sources[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/syth/fpInScala/Chap3/src/main/scala/exercise2.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
 [0m[[0minfo[0m] [0mCompiling 1 Scala source to /home/syth/fpInScala/Chap3/target/scala-2.10/classes...[0m
 [0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.3[0m
 [0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.3[0m
-[0m[[0mdebug[0m] [0mRunning cached compiler 6f757fa6, interfacing (CompilerInterface) with Scala compiler version 2.10.3[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 791a19f9, interfacing (CompilerInterface) with Scala compiler version 2.10.3[0m
 [0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
 [0m[[0mdebug[0m] [0m	-bootclasspath[0m
 [0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/netx.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/plugin.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rhino.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/classes:/home/syth/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.3.jar[0m
 [0m[[0mdebug[0m] [0m	-classpath[0m
 [0m[[0mdebug[0m] [0m	/home/syth/fpInScala/Chap3/target/scala-2.10/classes[0m
-[0m[[0mdebug[0m] [0mScala compilation took 4.072815559 s[0m
-[0m[[0mdebug[0m] [0mInvalidating by inheritance (transitively)...[0m
-[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/syth/scalaInAction/chap3Mongo/src/main/scala/classPractice.scala)[0m
-[0m[[0mdebug[0m] [0mInvalidated by transitive public inheritance: Set(/home/syth/scalaInAction/chap3Mongo/src/main/scala/classPractice.scala)[0m
-[0m[[0mdebug[0m] [0mInvalidated by direct dependency: Set()[0m
-[0m[[0mdebug[0m] [0mInvalidating by inheritance (transitively)...[0m
-[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/syth/scalaInAction/chap3Mongo/src/main/scala/Role.scala)[0m
-[0m[[0mdebug[0m] [0mInvalidated by transitive public inheritance: Set(/home/syth/scalaInAction/chap3Mongo/src/main/scala/Role.scala)[0m
-[0m[[0mdebug[0m] [0mInvalidated by direct dependency: Set()[0m
-[0m[[0mdebug[0m] [0mInvalidating by inheritance (transitively)...[0m
-[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/syth/scalaInAction/chap3Mongo/src/main/scala/DB.scala)[0m
-[0m[[0mdebug[0m] [0mInvalidated by transitive public inheritance: Set(/home/syth/scalaInAction/chap3Mongo/src/main/scala/DB.scala)[0m
-[0m[[0mdebug[0m] [0mInvalidated by direct dependency: Set()[0m
-[0m[[0mdebug[0m] [0mInvalidating by inheritance (transitively)...[0m
-[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/syth/scalaInAction/chap3Mongo/src/main/scala/main.scala)[0m
-[0m[[0mdebug[0m] [0mInvalidated by transitive public inheritance: Set(/home/syth/scalaInAction/chap3Mongo/src/main/scala/main.scala)[0m
-[0m[[0mdebug[0m] [0mInvalidated by direct dependency: Set()[0m
+[0m[[0mdebug[0m] [0mScala compilation took 3.486024792 s[0m
 [0m[[0mdebug[0m] [0mInvalidating by inheritance (transitively)...[0m
 [0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/syth/fpInScala/Chap3/src/main/scala/exercise2.scala)[0m
 [0m[[0mdebug[0m] [0mInvalidated by transitive public inheritance: Set(/home/syth/fpInScala/Chap3/src/main/scala/exercise2.scala)[0m
-[0m[[0mdebug[0m] [0mInvalidated by direct dependency: Set()[0m
-[0m[[0mdebug[0m] [0mInvalidating by inheritance (transitively)...[0m
-[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/syth/scalaInAction/chap3Mongo/src/main/scala/MyScript.scala)[0m
-[0m[[0mdebug[0m] [0mInvalidated by transitive public inheritance: Set(/home/syth/scalaInAction/chap3Mongo/src/main/scala/MyScript.scala)[0m
 [0m[[0mdebug[0m] [0mInvalidated by direct dependency: Set()[0m
 [0m[[0mdebug[0m] [0mNew invalidations:[0m
 [0m[[0mdebug[0m] [0m	Set()[0m
