@@ -30,5 +30,12 @@ object List {
     case Cons(x, xs) => Cons(head, xs)
     case _ => Cons(head, Nil)
   }
+
+  def drop[A](l: List[A], n: Int): List[A] = l match {
+    case Cons(x, _) if (n < 1) => l 
+    case Cons(x, xs) => drop(xs, n-1)
+    case _ => Nil 
+  }
+  
   
 }
