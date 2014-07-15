@@ -4,7 +4,7 @@
 		module="chap3_2.10"
 		revision="1.0"
 		status="integration"
-		publication="20140701100149"
+		publication="20140715093830"
 	>
 		<description>
 		Chap3
@@ -34,6 +34,5 @@
 	<dependencies>
 		<dependency org="org.scala-lang" name="scala-compiler" rev="2.10.3" conf="scala-tool->default,optional(default)"/>
 		<dependency org="org.scala-lang" name="scala-library" rev="2.10.3" conf="scala-tool->default,optional(default);compile->default(compile)"/>
-		<dependency org="org.mongodb" name="casbah_2.10" rev="2.7.2" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>
