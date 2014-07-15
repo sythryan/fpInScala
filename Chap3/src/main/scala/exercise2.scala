@@ -13,7 +13,6 @@ object List {
 
   def product(ds: List[Double]): Double = ds match {
     case Nil => 1.0
-    case Cons(0.0, _) => 0.0
     case Cons(x, xs) => x * product(xs)
   }
 
@@ -37,9 +36,8 @@ object List {
     case _ => Nil 
   }
   
-  def dropWhile[A](l: List[A], f: A => Boolean): List[A] = l match {
-    case Cons(x, xs) if f(x) => dropWhile(xs, f)
-    case Cons(x, _) if !f(x) => l
+  def dropWhile[A](l: List[A])( f: A => Boolean): List[A] = l match {
+    case Cons(x, xs) if f(x) => dropWhile(xs)(f)
     case _ => Nil
   }
 
@@ -47,5 +45,19 @@ object List {
     case Cons(x, xs) => Cons(x, init(xs))
     case _ => Nil
   }
+
+  def foldRight[A,B](as: List[A], z: B) (f: (A,B) => B): B = as match {
+    case Nil => z
+    case Cons(x, xs) => f(x, foldRight(xs, z)(f))
+  }
+
+  def sum2(ns: List[Int]) =
+    foldRight(ns, 0)((x,y) => x + y)
+
+  def product2(ns: List[Double]) =
+    foldRight(ns, 1.0)(_ * _)
+
+  def length[A](l: List[A]): Int = 
+    foldRight(l, 0)((x,y) => y + 1)
   
 }
