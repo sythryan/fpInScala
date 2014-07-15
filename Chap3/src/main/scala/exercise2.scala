@@ -59,5 +59,13 @@ object List {
 
   def length[A](l: List[A]): Int = 
     foldRight(l, 0)((x,y) => y + 1)
+
+  def foldLeft[A,B](l: List[A], z: B)(f: (B, A) => B): B = {
+    def innerFoldLeft(l: List[A], acc: B): B = l match {
+      case Cons(x, xs) => innerFoldLeft(xs, f(acc, x))
+      case Nil => acc 
+    }
+    innerFoldLeft(l, z)
+  }
   
 }

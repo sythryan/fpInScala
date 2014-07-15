@@ -17,13 +17,13 @@
 [0m[[0minfo[0m] [0mCompiling 1 Scala source to /home/syth/fpInScala/Chap3/target/scala-2.10/classes...[0m
 [0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.3[0m
 [0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.3[0m
-[0m[[0mdebug[0m] [0mRunning cached compiler 533a78d7, interfacing (CompilerInterface) with Scala compiler version 2.10.3[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 6d661444, interfacing (CompilerInterface) with Scala compiler version 2.10.3[0m
 [0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
 [0m[[0mdebug[0m] [0m	-bootclasspath[0m
 [0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/netx.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/plugin.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rhino.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/classes:/home/syth/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.3.jar[0m
 [0m[[0mdebug[0m] [0m	-classpath[0m
 [0m[[0mdebug[0m] [0m	/home/syth/fpInScala/Chap3/target/scala-2.10/classes[0m
-[0m[[0mdebug[0m] [0mScala compilation took 4.285180503 s[0m
+[0m[[0mdebug[0m] [0mScala compilation took 4.016937035 s[0m
 [0m[[0mdebug[0m] [0mInvalidating by inheritance (transitively)...[0m
 [0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/syth/fpInScala/Chap3/src/main/scala/exercise2.scala)[0m
 [0m[[0mdebug[0m] [0mInvalidated by transitive public inheritance: Set(/home/syth/fpInScala/Chap3/src/main/scala/exercise2.scala)[0m
