@@ -87,3 +87,8 @@
 <fpinscala.datastructures.ListSpec-stats timestamp="1405543336261"><stats time="21" expectations="25" successes="25" examples="25"><trend><stats time="21" failures="-1" successes="1"></stats></trend></stats></fpinscala.datastructures.ListSpec-stats>
 <fpinscala.datastructures.ListSpec-stats timestamp="1405544061556"><stats time="29" expectations="25" successes="25" examples="25"></stats></fpinscala.datastructures.ListSpec-stats>
 <fpinscala.datastructures.ListSpec-stats timestamp="1405544077413"><stats time="23" expectations="25" successes="25" examples="25"></stats></fpinscala.datastructures.ListSpec-stats>
+<fpinscala.datastructures.ListSpec-stats timestamp="1405544817575"><stats time="27" expectations="25" successes="25" examples="25"></stats></fpinscala.datastructures.ListSpec-stats>
+<fpinscala.datastructures.ListSpec-stats timestamp="1405545177443"><stats time="41" expectations="25" successes="25" examples="25"></stats></fpinscala.datastructures.ListSpec-stats>
+<fpinscala.datastructures.ListSpec-stats timestamp="1405545517527"><stats time="25" expectations="25" successes="25" examples="25"></stats></fpinscala.datastructures.ListSpec-stats>
+<fpinscala.datastructures.ListSpec-stats timestamp="1405545530737"><stats time="24" expectations="25" successes="25" examples="25"></stats></fpinscala.datastructures.ListSpec-stats>
+<fpinscala.datastructures.ListSpec-stats timestamp="1405545969234"><stats time="18" expectations="25" successes="25" examples="25"></stats></fpinscala.datastructures.ListSpec-stats>

@@ -1,5 +1,7 @@
 [0m[[0mdebug[0m] [0mRunning TaskDef(fpinscala.datastructures.ListSpec, specs2 Specification fingerprint, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(fpinscala.datastructures.TreeSpec, specs2 Specification fingerprint, false, [SuiteSelector])[0m
 [0m[[0mdebug[0m] [0mSummary for specs2 not available.[0m
-[0m[[0minfo[0m] [0mPassed: Total 25, Failed 0, Errors 0, Passed 25[0m
+[0m[[0minfo[0m] [0mPassed: Total 29, Failed 0, Errors 0, Passed 29[0m
 [0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	fpinscala.datastructures.TreeSpec[0m
 [0m[[0mdebug[0m] [0m	fpinscala.datastructures.ListSpec[0m

@@ -155,3 +155,32 @@ object ListSpec extends Specification {
     }
   }
 }
+
+object TreeSpec extends Specification {
+
+  "size" should {
+    "return the size of a tree" in {
+      Tree.size(Branch(Leaf(3),Branch(Leaf(3), Leaf(6)))) === 3
+    }
+  }
+
+  "max" should {
+    "return the max value of a tree" in {
+      Tree.max(Branch(Leaf(3),Branch(Leaf(3), Leaf(6)))) === 6
+    }
+  }
+
+  "depth" should {
+    "return the depth of a tree" in {
+      Tree.depth(Branch(Leaf(3),Branch(Leaf(3), Leaf(6)))) === 2
+    }
+  }
+
+  "map" should {
+    "apply a function to each elem in the tree" in {
+      Tree.map(Branch(Leaf(3),Branch(Leaf(3), Leaf(6))))(x => x + 1) === Branch(Leaf(4),Branch(Leaf(4), Leaf(7)))
+    }
+  }
+
+
+}

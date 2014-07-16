@@ -1,0 +1,18 @@
+[0m[[0minfo[0m] [0mTreeSpec[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37msize should[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m return the size of a tree[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37mmax should[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m return the max value of a tree[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37mdepth should[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m return the depth of a tree[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37mmap should[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m apply a function to each elem in the tree[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0mTotal for specification TreeSpec[0m
+[0m[[0minfo[0m] [0m[34mFinished in 1 ms[0m[0m
+[0m[[0minfo[0m] [0m[34m[0m[34m4 examples, 0 failure, 0 error[0m[0m
