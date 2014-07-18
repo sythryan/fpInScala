@@ -92,3 +92,4 @@
 <fpinscala.datastructures.ListSpec-stats timestamp="1405545517527"><stats time="25" expectations="25" successes="25" examples="25"></stats></fpinscala.datastructures.ListSpec-stats>
 <fpinscala.datastructures.ListSpec-stats timestamp="1405545530737"><stats time="24" expectations="25" successes="25" examples="25"></stats></fpinscala.datastructures.ListSpec-stats>
 <fpinscala.datastructures.ListSpec-stats timestamp="1405545969234"><stats time="18" expectations="25" successes="25" examples="25"></stats></fpinscala.datastructures.ListSpec-stats>
+<fpinscala.datastructures.ListSpec-stats timestamp="1405709859548"><stats time="34" expectations="25" successes="25" examples="25"></stats></fpinscala.datastructures.ListSpec-stats>
